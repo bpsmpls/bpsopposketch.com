@@ -1,0 +1,783 @@
+[
+   {
+      "@id": "156325273400",
+      "type": "photo",
+      "date-gmt": "2017-01-24 21:43:56 GMT",
+      "date": "Tue, 24 Jan 2017 15:43:56",
+      "unix-timestamp": "1485294236",
+      "slug": "take-it-easy",
+      "post-content": "<p>You outta the cast? Yep. So are you all good? Nope, not yet. Well, I can do anything I want, as long as it isn’t dangerous. So I can, like, write my name&hellip;<\/p>",
+      "photo": "./images/take-it-easy.jpg"
+   },
+   {
+      "@id": "156277730450",
+      "type": "photo",
+      "date-gmt": "2017-01-23 20:52:02 GMT",
+      "date": "Mon, 23 Jan 2017 14:52:02",
+      "unix-timestamp": "1485204722",
+      "slug": "ligament-chewing",
+      "post-content": "<p>Healing has been going great. Lots of video games and quiet celebration. Light stretching to get some range of motion back, as ordered by the doc. My patience is starting to pay off big time. But this morning, my arm really hurt. And not bone pain, as you might understand I know how to identify that. No it’s more like my ligament is irritated or my muscle is pulled or something. It feels like someone is chewing on my arm today.<\/p>",
+      "photo": "./images/ligament-chewing.jpg"
+   },
+   {
+      "@id": "155810321195",
+      "type": "photo",
+      "date-gmt": "2017-01-13 15:52:38 GMT",
+      "date": "Fri, 13 Jan 2017 09:52:38",
+      "unix-timestamp": "1484322758",
+      "slug": "cube-farm-crop-dusting",
+      "post-content": "<p>By request: new Farty Bird.<\/p>",
+      "photo": "./images/cube-farm-crop-dusting.jpg"
+   },
+   {
+      "@id": "155723439525",
+      "type": "photo",
+      "date-gmt": "2017-01-11 17:07:18 GMT",
+      "date": "Wed, 11 Jan 2017 11:07:18",
+      "unix-timestamp": "1484154438",
+      "slug": "snowman-commute",
+      "post-content": "<p>Everybody on their commutes this morning.<\/p>",
+      "photo": "./images/snowman-commute.jpg"
+   },
+   {
+      "@id": "155704240575",
+      "type": "photo",
+      "date-gmt": "2017-01-11 04:57:40 GMT",
+      "date": "Tue, 10 Jan 2017 22:57:40",
+      "unix-timestamp": "1484110660",
+      "slug": "short-tall-bike",
+      "post-content": "<p>Short tall bike concepting.<\/p><p>(R) indicates it’s not actually an oppo sketch, but I’m still gonna count them. Now that I can use my right hand again and all.<\/p>",
+      "photo": "./images/short-tall-bike.jpg"
+   },
+   {
+      "@id": "155676721305",
+      "type": "photo",
+      "date-gmt": "2017-01-10 16:44:51 GMT",
+      "date": "Tue, 10 Jan 2017 10:44:51",
+      "unix-timestamp": "1484066691",
+      "slug": "reel-big-fish",
+      "post-content": "<p>Saw Reel Big Fish on Sunday and it was everything I could’ve hoped for. Also, my cast was a highly protective piece of armor. Goodbye armor.<\/p>",
+      "photo": "./images/reel-big-fish.jpg"
+   },
+   {
+      "@id": "155630667940",
+      "type": "photo",
+      "date-gmt": "2017-01-09 17:11:11 GMT",
+      "date": "Mon, 09 Jan 2017 11:11:11",
+      "unix-timestamp": "1483981871",
+      "slug": "great-news",
+      "post-content": "<p>Amazing news today. Not healed but healing well, 6 weeks in a removable brace until the next checkup. Also, not technically an oppo sketch, which is cause for celebration.<\/p>",
+      "photo": "./images/great-news.jpg"
+   },
+   {
+      "@id": "155595019380",
+      "type": "photo",
+      "date-gmt": "2017-01-08 22:42:51 GMT",
+      "date": "Sun, 08 Jan 2017 16:42:51",
+      "unix-timestamp": "1483915371",
+      "slug": "1-day",
+      "post-content": "<p>I get my cast taken off tomorrow, where I will find out if I’ve been healing this whole time or if I need an additional surgery to get things right.<\/p><p>“Cautious optimism” is the term I’m using.<\/p>",
+      "photo": "./images/1-day.jpg"
+   },
+   {
+      "@id": "155560498300",
+      "type": "photo",
+      "date-gmt": "2017-01-08 04:59:18 GMT",
+      "date": "Sat, 07 Jan 2017 22:59:18",
+      "unix-timestamp": "1483851558",
+      "slug": "2-days",
+      "post-content": "<p>2 days.<\/p>",
+      "photo": "./images/2-days.jpg"
+   },
+   {
+      "@id": "155490722285",
+      "type": "photo",
+      "date-gmt": "2017-01-06 18:44:15 GMT",
+      "date": "Fri, 06 Jan 2017 12:44:15",
+      "unix-timestamp": "1483728255",
+      "slug": "3-days",
+      "post-content": "<p>In three days, who nose—ahem, knows—what’s gonna happen with my wrist?<\/p>",
+      "photo": "./images/3-days.jpg"
+   },
+   {
+      "@id": "155424951170",
+      "type": "photo",
+      "date-gmt": "2017-01-05 06:10:34 GMT",
+      "date": "Thu, 05 Jan 2017 00:10:34",
+      "unix-timestamp": "1483596634",
+      "slug": "cast-off-or-calm-down",
+      "post-content": "<p>Next appointment is coming up. Withholding anticipatory excitement for now.<\/p>",
+      "photo": "./images/cast-off-or-calm-down.jpg"
+   },
+   {
+      "@id": "155284289600",
+      "type": "photo",
+      "date-gmt": "2017-01-02 06:19:07 GMT",
+      "date": "Mon, 02 Jan 2017 00:19:07",
+      "unix-timestamp": "1483337947",
+      "slug": "dumbo-2017",
+      "post-content": "<p>This one is for my childhood best friend Ben. Happy and Dappy was a comic/show/lifestyle that he and I created as little kids. They were onions who were newscasters. One was the hopeless optimist and the other was a deranged maniac. There was a whole cast of other characters including Legs and this guy. Dumbo. Idiocy incarnate. A dragon so dim that his namesake was too bright. Without getting too wilty, I’ll say that 2016 was rough for me from beginning to end. Lots of good came from it, new friendships that developed into greatness is a chart topper there, but overall it was tough. Drawing Dumbo gives me pause in starting the year. It means to stay goofy, like young bps was. It also means to remember. Lots of good things are only memories now and reflecting further back, unearthing these fun gems can inspire the fun opportunities that still sit in my future.<\/p>",
+      "photo": "./images/dumbo-2017.jpg"
+   },
+   {
+      "@id": "155134400685",
+      "type": "photo",
+      "date-gmt": "2016-12-29 22:20:27 GMT",
+      "date": "Thu, 29 Dec 2016 16:20:27",
+      "unix-timestamp": "1483050027",
+      "slug": "fez-gomez",
+      "post-content": "<p>So there’s this game. It’s called Fez. I bought it on a whim during the Steam Winter Sale. I’ve ebbed and flowed with video games off and on for a long time and I got into some inventive games over castlife last year pretty deep. Anyway this game blindsided me with its quality. I dumped 12 hours into it over a couple days and the time vanished around me. It’s a 2D platformer with a mind bending gameplay mechanism of introducing 3D, but only kind of. Ever see that video of Carl Sagan describing the fourth dimension using a tabletop and an apple? It’s like that, but playable. And a tesseract functions as the Navi to your Link. Except his name is Gomez. And he gets SO happy when he discovers a cube. It’s on sale until mid-next week and I recommend you try it out. Killer soundtrack by Disasterpeace as well. Sidenote: new brush pens!<\/p>",
+      "photo": "./images/fez-gomez.jpg"
+   },
+   {
+      "@id": "154915315270",
+      "type": "photo",
+      "date-gmt": "2016-12-25 01:18:13 GMT",
+      "date": "Sat, 24 Dec 2016 19:18:13",
+      "unix-timestamp": "1482628693",
+      "slug": "christmas-legends",
+      "post-content": "<p>I think someone just saw a figure in the night with his companion one day years ago and filled in the blanks to what they were familiar with when trying to tell someone. They got it all wrong, too.<\/p><p>It’s an easy mistake. How else do you explain a mess of noodly appendages on a face? A beard! And his long, squidlike head? A funny hat! What about his dog with fingers on his head? Antlers! Oh a reindeer! What about his glowing nose? That part stays. We’ll write a song about it.<\/p><p>Happy Xmas.<\/p>",
+      "photo": "./images/christmas-legends.jpg"
+   },
+   {
+      "@id": "154793720035",
+      "type": "photo",
+      "date-gmt": "2016-12-22 05:35:50 GMT",
+      "date": "Wed, 21 Dec 2016 23:35:50",
+      "unix-timestamp": "1482384950",
+      "slug": "chassilla",
+      "post-content": "<p>Chass: a portrait<\/p>",
+      "photo": "./images/chassilla.jpg"
+   },
+   {
+      "@id": "154786149625",
+      "type": "photo",
+      "date-gmt": "2016-12-22 02:03:39 GMT",
+      "date": "Wed, 21 Dec 2016 20:03:39",
+      "unix-timestamp": "1482372219",
+      "slug": "arrival-abbott",
+      "post-content": "<p>Not even the coolest part about Villeneuve’s <em>Arrival<\/em>. Y'all should see it.<\/p>",
+      "photo": "./images/arrival-abbott.jpg"
+   },
+   {
+      "@id": "154723540775",
+      "type": "photo",
+      "date-gmt": "2016-12-20 15:48:05 GMT",
+      "date": "Tue, 20 Dec 2016 09:48:05",
+      "unix-timestamp": "1482248885",
+      "slug": "pt-taffy",
+      "post-content": "<p>The hip stretches I do in PT make me feel like my body is made of taffy: you pull on one end and it feels like it’ll come off, but the stretching never breaks and the whole area just gets a little weaker.<\/p>",
+      "photo": "./images/pt-taffy.jpg"
+   },
+   {
+      "@id": "154508853330",
+      "type": "photo",
+      "date-gmt": "2016-12-15 15:27:38 GMT",
+      "date": "Thu, 15 Dec 2016 09:27:38",
+      "unix-timestamp": "1481815658",
+      "slug": "lava-drink",
+      "post-content": "<p>I don’t know how people do it. I had a hot cocoa yesterday and managed to burn my whole mouth in less than a minute. What I really mean when I say “hot cocoa” is “slightly more than warm cocoa”. And people drink screaming hot coffee and tea all the time. My sipping technique must need a lot of work. Or I can just make lukewarm cocoa. That other option is way easier.<\/p>",
+      "photo": "./images/lava-drink.jpg"
+   },
+   {
+      "@id": "154436148385",
+      "type": "photo",
+      "date-gmt": "2016-12-13 21:48:23 GMT",
+      "date": "Tue, 13 Dec 2016 15:48:23",
+      "unix-timestamp": "1481665703",
+      "slug": "winter-chills-can-kiss-my-cast",
+      "post-content": "<p>So I before my surgery I had a big purge of old gear. In it, I dumped the magic glove I’d discovered and modified for castlife last year. This morning, I wiggled a light glove onto the casted hand while I scraped ice and snow off the Volvo as it warmed up. In that time, my thumb had popped out and puked all of its heat out and I could feel the burn of frostbite pretty quickly. I ran inside and checked the weather. “Feels like -21°,” it said. I stretched the glove over the cast as far as it would go and rushed my scrapings and hit the road. I gotta dig up some stretched out wool socks or something, man. Castlife is not kind to winter needs.<\/p>",
+      "photo": "./images/winter-chills-can-kiss-my-cast.jpg"
+   },
+   {
+      "@id": "154431380465",
+      "type": "photo",
+      "date-gmt": "2016-12-13 19:39:10 GMT",
+      "date": "Tue, 13 Dec 2016 13:39:10",
+      "unix-timestamp": "1481657950",
+      "slug": "the-worst-and-the-terrible",
+      "post-content": "<p>The official title of my TV show with Bobby Holly.<\/p>",
+      "photo": "./images/the-worst-and-the-terrible.jpg"
+   },
+   {
+      "@id": "154365784535",
+      "type": "photo",
+      "date-gmt": "2016-12-12 06:15:24 GMT",
+      "date": "Mon, 12 Dec 2016 00:15:24",
+      "unix-timestamp": "1481523324",
+      "slug": "popsicle-tricycle",
+      "post-content": "<p>Based on an idea pitched to me last week. Hard to make a popsicle look less like the Gedney pickle.<\/p>",
+      "photo": "./images/popsicle-tricycle.jpg"
+   },
+   {
+      "@id": "154272551195",
+      "type": "photo",
+      "date-gmt": "2016-12-10 03:52:37 GMT",
+      "date": "Fri, 09 Dec 2016 21:52:37",
+      "unix-timestamp": "1481341957",
+      "slug": "spider-horse",
+      "post-content": "<p>After seeing yesterday’s trailer for Spider-Man: Homecoming, I can say that I’m pretty excited. Good to see that character finally in the MCU. There are so many interpretations of the character, but I’m holding out for this one.<\/p>",
+      "photo": "./images/spider-horse.jpg"
+   },
+   {
+      "@id": "154266490085",
+      "type": "photo",
+      "date-gmt": "2016-12-10 00:47:33 GMT",
+      "date": "Fri, 09 Dec 2016 18:47:33",
+      "unix-timestamp": "1481330853",
+      "slug": "bob-drum-head",
+      "post-content": "<p>One more look at the drum head project before I handed it off to its rightful owner.<\/p>",
+      "photo": "./images/bob-drum-head.jpg"
+   },
+   {
+      "@id": "154247942990",
+      "type": "video",
+      "date-gmt": "2016-12-09 15:14:41 GMT",
+      "date": "Fri, 09 Dec 2016 09:14:41",
+      "unix-timestamp": "1481296481",
+      "slug": "bob-timelapse",
+      "video-source": "https://www.youtube.com/watch?v=rLqKvCQB5n0&feature=youtu.be",
+      "post-content": "<p>A time lapse of my work on a commission for drum head artwork.<\/p>",
+      "video-player": "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/rLqKvCQB5n0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\"><\/iframe>",
+      "video-id": "rLqKvCQB5n0"
+   },
+   {
+      "@id": "154222982865",
+      "type": "photo",
+      "date-gmt": "2016-12-08 23:25:01 GMT",
+      "date": "Thu, 08 Dec 2016 17:25:01",
+      "unix-timestamp": "1481239501",
+      "slug": "dj-taco",
+      "post-content": "<p>This one is for Bobby Holly as his new dirt jumper begins its journey to full taco.<\/p>",
+      "photo": "./images/dj-taco.jpg"
+   },
+   {
+      "@id": "154218920630",
+      "type": "photo",
+      "date-gmt": "2016-12-08 21:33:57 GMT",
+      "date": "Thu, 08 Dec 2016 15:33:57",
+      "unix-timestamp": "1481232837",
+      "slug": "bob-type",
+      "post-content": "<p>Considerations for this commission.<\/p>",
+      "photo": "./images/bob-type.jpg"
+   },
+   {
+      "@id": "154213916940",
+      "type": "photo",
+      "date-gmt": "2016-12-08 19:09:08 GMT",
+      "date": "Thu, 08 Dec 2016 13:09:08",
+      "unix-timestamp": "1481224148",
+      "slug": "book-on-a-boat",
+      "post-content": "<p>Meditating on a boat with a good book.<\/p>",
+      "photo": "./images/book-on-a-boat.jpg"
+   },
+   {
+      "@id": "154191744310",
+      "type": "photo",
+      "date-gmt": "2016-12-08 04:42:08 GMT",
+      "date": "Wed, 07 Dec 2016 22:42:08",
+      "unix-timestamp": "1481172128",
+      "slug": "crushed-with-indifference",
+      "post-content": "<p>This evening while at a local indoor bike park, an adorable 6-year-old kid ripped up and scribbled on a third of my sketches while I was watching folks do tricks. Friends who were there with me said adults nearby giggled and laughed with the kid while he was doodling, but my friends couldn’t see that the kid was doing.<\/p><p>When I walked back over to the table, the notebook was flipped over and crumpled on the table, some pages with sketches on them ripped out and discarded. I asked what happened. Everyone looked at me like deer in headlights and couldn’t give me any answers. I confronted the kid’s dad about what had happened while dad was riding.<\/p><p>“He’s 6.” He responded. “What am I supposed to say? It’s a notepad.”<\/p><p>“Well you’re responsible for the things he does,” I said, seething but polite, “and he destroyed my property. Things I worked hard for. Months of work.”<\/p><p>After a while, the kid came over and apologized. Or as far as a kid his age could. I asked why he did it and he told me he’d asked another rider if it was his and if he could draw in it. I asked him to point out the rider and he hesitated and said he’d asked where a pen was. Uncomfortable, he changed the subject quickly and asked about my cast.<\/p><p>A lot of my cathartic work on this project was destroyed tonight. Lots of people around it, but none of them seemed to know much.<\/p><p>Part parenting I’d guess but also part community. I had been using that pad not long before this happened and I really wish someone would have stepped up and asked the kid what he was doing before this happened.<\/p><p>It’s not the kid’s fault. His dad didn’t seem to care that it happened, so he must not have been taught in that area. I’d been shown multiple times that expensive things could be left unattended at that place without issue. But either way, it happened. Some drawings are ruined and the adults and child responsible didn’t learn from it and it sucks.<\/p>",
+      "photo": "./images/crushed-with-indifference.jpg"
+   },
+   {
+      "@id": "154183372585",
+      "type": "photo",
+      "date-gmt": "2016-12-08 00:46:51 GMT",
+      "date": "Wed, 07 Dec 2016 18:46:51",
+      "unix-timestamp": "1481158011",
+      "slug": "jelly-bowl-foot-fork",
+      "post-content": "<p>I tried to describe this one.<\/p><p>“It’s like a bike wheel with feet, on a fork attached to a metal acorn with a toupee of hair carrying a jelly guy in a bowl.”<\/p><p>Or, whatever.<\/p>",
+      "photo": "./images/jelly-bowl-foot-fork.jpg"
+   },
+   {
+      "@id": "154174735100",
+      "type": "photo",
+      "date-gmt": "2016-12-07 20:56:50 GMT",
+      "date": "Wed, 07 Dec 2016 14:56:50",
+      "unix-timestamp": "1481144210",
+      "slug": "cliff-bear",
+      "post-content": "<p>More brainstorming.<\/p>",
+      "photo": "./images/cliff-bear.jpg"
+   },
+   {
+      "@id": "154139126660",
+      "type": "photo",
+      "date-gmt": "2016-12-06 23:57:38 GMT",
+      "date": "Tue, 06 Dec 2016 17:57:38",
+      "unix-timestamp": "1481068658",
+      "slug": "bird-bomb",
+      "post-content": "<p>Brainstorming.<\/p>",
+      "photo": "./images/bird-bomb.jpg"
+   },
+   {
+      "@id": "153918897310",
+      "type": "photo",
+      "date-gmt": "2016-12-01 21:33:02 GMT",
+      "date": "Thu, 01 Dec 2016 15:33:02",
+      "unix-timestamp": "1480627982",
+      "slug": "pliers",
+      "post-content": "<p>Remember when I said I had a thorn in my paw? Well I got it pulled out today and I could feel it wiggling all the way from my ulna. Took &lsquo;em over six tries because the medical pliers kept slipping. Yes I watched every moment and seeing them dig around was amazing. Ever grind two smooth rocks together? It felt kind of like that, but on the inside. And now I feel SO MUCH BETTER.<\/p>",
+      "photo": "./images/pliers.jpg"
+   },
+   {
+      "@id": "153628179880",
+      "type": "photo",
+      "date-gmt": "2016-11-25 03:56:35 GMT",
+      "date": "Thu, 24 Nov 2016 21:56:35",
+      "unix-timestamp": "1480046195",
+      "slug": "sometimes",
+      "post-content": "<p>“Sometimes.”<\/p><p>Some days get to be really tough. Not for the wrist, but just in general. I’ve been reflecting a lot and seemingly processing a decade of difficult things that I thought I’d moved on from, or at least knew how to carry with me. Turns out that isn’t fully true. And since you don’t want to talk, you do a lot of listening. Being helpful where you can and it feels good.<\/p><p>On a meta level, I’ve had this sketch concept in my head for a few days now. I feel alright with its execution, but someday I’ll try it again. Faces are incredibly difficult for me to draw, especially but not only with the wrong hand.<\/p>",
+      "photo": "./images/sometimes.jpg"
+   },
+   {
+      "@id": "153582792580",
+      "type": "photo",
+      "date-gmt": "2016-11-24 02:10:13 GMT",
+      "date": "Wed, 23 Nov 2016 20:10:13",
+      "unix-timestamp": "1479953413",
+      "slug": "cubist-cuckoo",
+      "post-content": "<p>This guy is popular. Cubist cuckoo.<\/p>",
+      "photo": "./images/cubist-cuckoo.jpg"
+   },
+   {
+      "@id": "153437176690",
+      "type": "photo",
+      "date-gmt": "2016-11-20 18:59:34 GMT",
+      "date": "Sun, 20 Nov 2016 12:59:34",
+      "unix-timestamp": "1479668374",
+      "slug": "gobbler-noggin",
+      "post-content": "<p>Sometimes I don’t even have to come up with goofy shit to draw. This kid at The Factory taped a plush turkey to his full face helmet and rode his whole session with a gobbler on his noggin. The kid’s friend had his whole family with him and the really little sister could not get enough of this sketch of her brother’s friend.<\/p>",
+      "photo": "./images/gobbler-noggin.jpg"
+   },
+   {
+      "@id": "153420042450",
+      "type": "photo",
+      "date-gmt": "2016-11-20 08:52:08 GMT",
+      "date": "Sun, 20 Nov 2016 02:52:08",
+      "unix-timestamp": "1479631928",
+      "slug": "mic-hands",
+      "post-content": "<p>Mic cables everywhere today while I was haphazardly running sound for Gamer’s Rhapsody.<\/p>",
+      "photo": "./images/mic-hands.jpg"
+   },
+   {
+      "@id": "153354728775",
+      "type": "photo",
+      "date-gmt": "2016-11-18 20:31:39 GMT",
+      "date": "Fri, 18 Nov 2016 14:31:39",
+      "unix-timestamp": "1479501099",
+      "slug": "snow-volvo",
+      "post-content": "<p>It occurred to me that I have no idea how prepared I am for snow. This rear-wheel-drive beast may not have a snow brush. Though it has rear defrost, which I’ve been without for years. Before that, I didn’t have working windshield wipers. All things considered, this 1990 baby is kind of an upgrade, necessary functions-wise.<\/p>",
+      "photo": "./images/snow-volvo.jpg"
+   },
+   {
+      "@id": "153347136880",
+      "type": "photo",
+      "date-gmt": "2016-11-18 16:26:18 GMT",
+      "date": "Fri, 18 Nov 2016 10:26:18",
+      "unix-timestamp": "1479486378",
+      "slug": "office-labyrinth",
+      "post-content": "<p>Someone asked who slayed the Minotaur while they were walking back to our desk area.<\/p><p>“Theseus?” I responded, puzzled.<\/p><p>“Yeah,” they replied, “I feel like that guy trying to navigate back here now. Couldn’t make it easy for me, could you? Do you have a photo of him?”<\/p>",
+      "photo": "./images/office-labyrinth.jpg"
+   },
+   {
+      "@id": "153261022710",
+      "type": "photo",
+      "date-gmt": "2016-11-16 15:31:13 GMT",
+      "date": "Wed, 16 Nov 2016 09:31:13",
+      "unix-timestamp": "1479310273",
+      "slug": "margrave-police",
+      "post-content": "<p>Riding the bus has awarded me the privilege of reading during my commute. I haven’t done that in years. I always read better on buses or airplanes than I do at home or in a coffee shop. I’m reading the first Jack Reacher book and just enthralled with how fun it is. An interesting character in a wacky whodunnit. And larger than life.<\/p>",
+      "photo": "./images/margrave-police.jpg"
+   },
+   {
+      "@id": "153190174840",
+      "type": "photo",
+      "date-gmt": "2016-11-14 23:13:46 GMT",
+      "date": "Mon, 14 Nov 2016 17:13:46",
+      "unix-timestamp": "1479165226",
+      "slug": "back-to-the-cane",
+      "post-content": "<p>Not being allowed to drive my car means being on other people’s time. For the most part, that has been actually kind of nice. Among other things, it means that I am forced to be loose about planning. Because carpooling has been hard to schedule, I’ve been taking the bus more. There is only one bus combination that takes me to work in a reasonable amount of time in the morning and there are only two bus return trips to take me home. I was running late leaving today and I had to run the bulk of the 0.8 mile stretch to the bus stop to try catch it. The next and final would be an hour and a half later. I ran down the hill as hard as I could manage, losing breath and losing balance on my surgery-side hip. I made it in time, but now my right leg seems to have reverted to one-week-out post-surgery status. The limp home after leaving the bus was a long and arduous one. I’m glad I still have the cane. I’ll have to give myself extra extra time to get places again.<\/p>",
+      "photo": "./images/back-to-the-cane.jpg"
+   },
+   {
+      "@id": "153174110715",
+      "type": "photo",
+      "date-gmt": "2016-11-14 15:29:57 GMT",
+      "date": "Mon, 14 Nov 2016 09:29:57",
+      "unix-timestamp": "1479137397",
+      "slug": "farty-bird-strikes-again",
+      "post-content": "<p>A little gift for Gaddo. Paul went all out on this cloud, just for you man.<\/p>",
+      "photo": "./images/farty-bird-strikes-again.jpg"
+   },
+   {
+      "@id": "153140480395",
+      "type": "photo",
+      "date-gmt": "2016-11-13 21:01:40 GMT",
+      "date": "Sun, 13 Nov 2016 15:01:40",
+      "unix-timestamp": "1479070900",
+      "slug": "foods-and-crafts",
+      "post-content": "<p>After my first attempt failed, I have finally got some materials for my mask’s eyes (ping pong balls) from the red bullseye, stopped over for waffles for lunch with my pals, and expecting some pizza to come soon.<\/p>",
+      "photo": "./images/foods-and-crafts.jpg"
+   },
+   {
+      "@id": "153100209330",
+      "type": "photo",
+      "date-gmt": "2016-11-12 23:22:49 GMT",
+      "date": "Sat, 12 Nov 2016 17:22:49",
+      "unix-timestamp": "1478992969",
+      "slug": "doctor-strange",
+      "post-content": "<p>Just saw Doctor Strange. Let me tell you, it was SOO good. I couldn’t help but think this when first seeing the casting though.<\/p>",
+      "photo": "./images/doctor-strange.jpg"
+   },
+   {
+      "@id": "153005768945",
+      "type": "photo",
+      "date-gmt": "2016-11-10 19:58:00 GMT",
+      "date": "Thu, 10 Nov 2016 13:58:00",
+      "unix-timestamp": "1478807880",
+      "slug": "snakeoil",
+      "post-content": "<p>After using it a bunch earlier this year to some disappointment, the jury is still out on my ultrasound bone stimulator device.<\/p>",
+      "photo": "./images/snakeoil.jpg"
+   },
+   {
+      "@id": "152968424505",
+      "type": "photo",
+      "date-gmt": "2016-11-09 22:36:45 GMT",
+      "date": "Wed, 09 Nov 2016 16:36:45",
+      "unix-timestamp": "1478731005",
+      "slug": "farty-bird",
+      "post-content": "<p>His name is Paul, but he really prefers this alias.<\/p>",
+      "photo": "./images/farty-bird.jpg"
+   },
+   {
+      "@id": "152907248895",
+      "type": "photo",
+      "date-gmt": "2016-11-08 18:54:57 GMT",
+      "date": "Tue, 08 Nov 2016 12:54:57",
+      "unix-timestamp": "1478631297",
+      "slug": "skull-house-island",
+      "photo": "./images/skull-house-island.jpg"
+   },
+   {
+      "@id": "152878263670",
+      "type": "photo",
+      "date-gmt": "2016-11-08 01:15:06 GMT",
+      "date": "Mon, 07 Nov 2016 19:15:06",
+      "unix-timestamp": "1478567706",
+      "slug": "foam-pit",
+      "post-content": "<p>Right after arriving at The Factory with Bob, this kid was cannonballing into the foam pit. He was having the time of his life. He switched over to a scooter and eventually a bike, trotting around as an embodiment of the intersection of adorable and badass.<\/p>",
+      "photo": "./images/foam-pit.jpg"
+   },
+   {
+      "@id": "152838418895",
+      "type": "photo",
+      "date-gmt": "2016-11-07 02:35:28 GMT",
+      "date": "Sun, 06 Nov 2016 20:35:28",
+      "unix-timestamp": "1478486128",
+      "slug": "modern-romance",
+      "post-content": "<p>I composed a new piece tonight called “Modern Romance” and drew this while listening back to it. I’m withdrawing from online dating services for a while following a string of dates that, if I’m being honest, would’ve been much better solo adventures. The factory is closed and now its employees have vacated and locked the door behind them. It’s hard reflecting on the gushy things your rose-tinted memory serves up, sometimes as hard as the difficult ones. But this sketch is a reflection on scale: cool it, man, there’s a lot of beauty out there and it’s way bigger than you.<\/p><p><a href=\"https://soundcloud.com/clidesfeld/modern-romance\" target=\"_blank\">“Modern Romance” by Clidesfeld<\/a><\/p>",
+      "photo": "./images/modern-romance.jpg"
+   },
+   {
+      "@id": "152814816400",
+      "type": "photo",
+      "date-gmt": "2016-11-06 16:18:50 GMT",
+      "date": "Sun, 06 Nov 2016 10:18:50",
+      "unix-timestamp": "1478449130",
+      "slug": "one-year",
+      "post-content": "<p>Today is the one year anniversary for fracturing my wrist, the scaphoid specifically. In that time, I’ve had a cumulative four months in a various casts, three splints, 45 days using a Palm Pilot-sized science magic bone stimulator twice a day, five weeks of occupational therapy, two different wrist braces worn on and off for six months, and one surgery grafting bone from my hip in hopes of fixing the eroding scaphoid.<\/p><p>In that time, I have learned and grown familiar with some things.<\/p><p>One thing I’ve grown accustom to is pain. Even in my skateboarding years, pain was an inevitable component. Always looming and eager, pain was always just one small mistake away from being anchored to me for sometimes weeks on end, signaling like a flashing neon sign that I was closed for repairs. Due to a somewhat freak chance incident, I once shattered my humerus, radius, and ulna at the elbow and spent the better half of a year regaining strength and mobility until I was well enough to jump back on the board. It gets sore when the weather changes and the rounded bump you see at the end of it is quite literally just flesh and bone, but it’s fine now and doesn’t bother me.<\/p><p>The wrist fracture also was a freak accident. Well within my limits on the easiest and smallest jump line at the bike park, I was bucked off a new bike within twenty minutes of being there, within an hour of owning the bike I was riding. I thought for sure that it was only a sprain when it happened and decided I’d keep jumping, keeping light on the hands. Kate and I left about forty minutes later and we came away with some fun photos of the new bike day. I could barely bring the bike inside upon arriving home and wrapped it up and iced it right away. Urgent care and ER couldn’t tell me whether or not it was broken when I went in the next day and ortho confirmed it the following Tuesday. Three months in a cast and I was given instructions and a 90% estimation clean bill of health. Get after it again, my doctor told me.<\/p><p>But this pain has been very different. Unlike the many times I’ve sprained my ankles, sometimes nearly snapping the ligaments that hold them together entirely, this wrist pain has not let up over time. The small ridges in the pavement on the Midtown Greenway near the soccer field hurt with the same dull swelling that a charliehorse to the shoulder might from your kind-of-overly-enthusiastically-aggressive friend after his third beer.<\/p><p>I dialed back activities to cater to this pain. Drumming techniques that loosened the stiffness but didn’t aggravate were tough to develop. I couldn’t do a push up or a pull up due to the strain and sting it would cause. I could no longer carry a bike over my shoulder because that flexibility was no longer there and getting near it would make my hand go limp. I no longer bunny hopped up anything taller than a curb because I knew if I landed at all angled forward, I would not be able to ride home safely afterward. I developed techniques around these limitations so that I could still do what I love doing, though not progress with it while doing so, holding dearly to the little bit that I was capable of doing. It made every ride a higher calculation of risk, including grocery runs.<\/p><p>But my doctor and my occupational therapist said that it was just stiff and that if I kept up my stretches and progressed with them, that would eventually go away. So I took their word on that my pain was not indicative of any serious issues regarding my injury and managed through it, faithful that it would eventually soften and I would be back to my normal self. When I would land hard and it would hurt—boy would it hurt—I would just stretch it out per the therapist’s instruction and wait for the pain to die down. It hurts now, but it’s just temporary and not a concern, I’d remind myself.<\/p><p>Paired with the pain, I’ve become much more familiar with fear. Believe it or not, I’ve always lived with a lot of caution in the activities I do. Lots of careful consideration before action. But this caution has turned into heightened fear. All it has taken was a small unexpected bump or slightly shifted body weight when riding mountain bike trails or the dirt jumps at Cottage Grove for things to go very downhill from there–yes, bad pun intended. Granted, in a lot of ways that is how it always is and it’s that test of your balance, reaction, and stability that makes people like me do it. But the level of attack I’ve given my favorite things to do has come to a screeching halt.<\/p><p>I would fantasize about visiting Ray’s Indoor MTB park in Milwaukee (RIP), Spirit Mountain in Duluth, or the Mega Cavern dirt jumps in Louisville and awe at the giant air people were getting and visualize myself doing it very clearly. Standard levels of risk are always involved with that and that’s the deal. But when successfully landing jumps of a much smaller scale with a soft, long-travel trail bike give me screaming pain, failure is almost incomprehensibly scary.<\/p><p>Upon learning of all of this six months after the first large round of cast-free treatment and healing, my occupational therapist referred me to a surgeon, informing me that what I was experiencing was not normal after all. And the surgeon said that it was more broken than it was when I first fractured it. She continued, saying that there were a lot of unknowns about the possible success of any procedure but that it should relieve my daily pain and help stave off arthritis.<\/p><p>After the surgery, I couldn’t walk at all for a week without the desperate need for opioids and a cane. Going to the nearest restaurant two and a half blocks away meant 15 minutes of painstaking effort, taking every step two steps at a time. I was given a restriction with my wrist: no lifting, pushing, or pulling anything heavier than a pound. Toothbrushes and pants were the limit, they said. I was told this might not be the only surgery that I’ll need due to a unique complication, but we wouldn’t know for a couple months.<\/p><p>I can walk now cane-free, which is amazing. I can cough and karaoke without crying now that the swelling and bruising of my abdomen has gone down. I’m not allowed to drive my stick-shift car because of the stress it’ll put on my wrist and possibility of dislodging the expensive work put into it.<\/p><p>Today, the pain has not gone away, nor the fear. They’ve simply shifted. Now the pain is in my hip when I walk and in the palm of my right hand intermittently, where without consistency or warning nerves explode like firecrackers under my bright fiberglass protection. We’ve tried troubleshooting that by changing casts, but we don’t know what’s causing the pain. The nurses aren’t worried, but then again my first orthopedic doctor wasn’t worried either.<\/p><p>More and more, the last year has been getting slower and more cautious, down to being careful about how you’ve placed the takeout bag in your right hand or how your elbow hangs when you type on the computer. All transportation has gotten more difficult, though I have had some amazing support from friends.<\/p><p>Walking has become a lot more appealing. It’s very slow, but then again everything is with me right now. Things have to receive more time, focus, and energy to get done, but it’s put me in a semi-zen state. When I sold an old camera on Thursday to a young guy looking to get into photography, we met at Bob’s Java Hut near me. Before my buyer showed up I bought a cookie and the barista cheerfully probed for an update on my wrist. I had to get it changed that day because of the pain it caused me. She shook her head and praised my level-head in all of this. “You’re in such good spirits!” she exclaimed, “I don’t know how you do it.”<\/p><p>I shrugged. Not much I can do about it. Lots of waiting; the body is a slow methodical healer and I’m learning a lot of patience.<\/p>",
+      "photo": "./images/one-year.jpg"
+   },
+   {
+      "@id": "152756711895",
+      "type": "photo",
+      "date-gmt": "2016-11-05 05:31:21 GMT",
+      "date": "Sat, 05 Nov 2016 00:31:21",
+      "unix-timestamp": "1478323881",
+      "slug": "joe-panda",
+      "post-content": "<p>My brother: Joe Panda<\/p>",
+      "photo": "./images/joe-panda.jpg"
+   },
+   {
+      "@id": "152747057325",
+      "type": "photo",
+      "date-gmt": "2016-11-05 00:26:37 GMT",
+      "date": "Fri, 04 Nov 2016 19:26:37",
+      "unix-timestamp": "1478305597",
+      "slug": "coolest-craigslist-buyer",
+      "post-content": "<p>I’ve sold a bunch of stuff in the last couple weeks, each time through Craigslist and each time at Bob’s Java Hut. The first was right after my surgery, so caning over to BJH was exhausting and ugly. The buyer hemmed and hawed for 40 minutes, tried to talk me down further than he did before the meeting and finally decided to purchase. Second one was yesterday, a kid looking to get into photography asking me how the camera I was selling worked. I saw his eyes light up when I gave him a rundown and he walked away within a minute, perfectly happy with our exchange. Tonight I sold a music sequencer to someone who rolled up in this vehicle, climbed out of it wearing a cast boot and crusty clothes and tattoos, hobbled into Bob’s and asked if the thing worked without issues. Yep, I said. She nodded, handed me the cash and limped back to this steed and rolled away with her male passenger and sequencer. Possibly the easiest yet most memorable Craigslist deal I’ve ever had. Also, vans are impossible to draw.<\/p><p><a href=\"https://soundcloud.com/clidesfeld/crust-punk-trunk\" target=\"_blank\">A related Clidesfeld piece<\/a><\/p>",
+      "photo": "./images/coolest-craigslist-buyer.jpg"
+   },
+   {
+      "@id": "152739637395",
+      "type": "photo",
+      "date-gmt": "2016-11-04 20:49:52 GMT",
+      "date": "Fri, 04 Nov 2016 15:49:52",
+      "unix-timestamp": "1478292592",
+      "slug": "finances",
+      "post-content": "<p>Finances.<\/p>",
+      "photo": "./images/finances.jpg"
+   },
+   {
+      "@id": "152727678305",
+      "type": "photo",
+      "date-gmt": "2016-11-04 14:18:09 GMT",
+      "date": "Fri, 04 Nov 2016 09:18:09",
+      "unix-timestamp": "1478269089",
+      "slug": "final-fantasy-mario",
+      "post-content": "<p>You ever realize how ridiculous the characters in Final Fantasy games look? I mean, they’re super creative and have a distinct style, but they’re so over the top. Anyway, I was listening to Powerglove’s original arrangement of The Decisive Battle from Final Fantasy VI and figured I’d make something ridiculous while I listened. Here’s basically Tidus Mario.<\/p><p><a href=\"https://www.youtube.com/watch?v=iRKo6u9rNUg\" target=\"_blank\">The arrangment<\/a><\/p>",
+      "photo": "./images/final-fantasy-mario.jpg"
+   },
+   {
+      "@id": "152698650615",
+      "type": "photo",
+      "date-gmt": "2016-11-03 21:01:39 GMT",
+      "date": "Thu, 03 Nov 2016 16:01:39",
+      "unix-timestamp": "1478206899",
+      "slug": "thorny-paw",
+      "post-content": "<p>Got my cast changed today due to bizarre and stinging explosions of nerves in my palm/thumb. The nurse and I went through two more cast applications but it’s still not right. Current status: pull the thorn from my paw?<\/p>",
+      "photo": "./images/thorny-paw.jpg"
+   },
+   {
+      "@id": "152655071955",
+      "type": "photo",
+      "date-gmt": "2016-11-02 20:43:03 GMT",
+      "date": "Wed, 02 Nov 2016 15:43:03",
+      "unix-timestamp": "1478119383",
+      "slug": "patient-man",
+      "post-content": "<p>Grammar makes all the difference.<\/p>",
+      "photo": "./images/patient-man.jpg"
+   },
+   {
+      "@id": "152652000760",
+      "type": "photo",
+      "date-gmt": "2016-11-02 19:20:56 GMT",
+      "date": "Wed, 02 Nov 2016 14:20:56",
+      "unix-timestamp": "1478114456",
+      "slug": "not-again-still",
+      "post-content": "<p>Not again, still.<\/p>",
+      "photo": "./images/not-again-still.jpg"
+   },
+   {
+      "@id": "152608322780",
+      "type": "photo",
+      "date-gmt": "2016-11-01 19:51:46 GMT",
+      "date": "Tue, 01 Nov 2016 14:51:46",
+      "unix-timestamp": "1478029906",
+      "slug": "small-face-pumpkin",
+      "post-content": "<p>My friend spotted an awesome tiny-face pumpkin this year. I present you small-face pumpkin. I couldn’t even draw his face as tiny as the real life thing.<\/p>",
+      "photo": "./images/small-face-pumpkin.jpg"
+   },
+   {
+      "@id": "152604705435",
+      "type": "photo",
+      "date-gmt": "2016-11-01 18:07:14 GMT",
+      "date": "Tue, 01 Nov 2016 13:07:14",
+      "unix-timestamp": "1478023634",
+      "slug": "artisanal-dog-scarf",
+      "post-content": "<p>My buddy Bob was cleaning his car a bit and stumbled onto a new business venture.<\/p>",
+      "photo": "./images/artisanal-dog-scarf.jpg"
+   },
+   {
+      "@id": "152560042610",
+      "type": "photo",
+      "date-gmt": "2016-10-31 16:36:11 GMT",
+      "date": "Mon, 31 Oct 2016 11:36:11",
+      "unix-timestamp": "1477931771",
+      "slug": "november-hasnt-even-started-yet-and-its-already",
+      "post-content": "<p>November hasn’t even started yet and it’s already taking too long.<\/p>",
+      "photo": "./images/november-hasnt-even-started-yet-and-its-already.jpg"
+   },
+   {
+      "@id": "152538451500",
+      "type": "photo",
+      "date-gmt": "2016-10-31 03:08:01 GMT",
+      "date": "Sun, 30 Oct 2016 22:08:01",
+      "unix-timestamp": "1477883281",
+      "slug": "couch",
+      "post-content": "<p>Everyone is out partying and I’m finally watching Daredevil season 2. Here’s a real-life portrait of my reaction to episode 3.<\/p>",
+      "photo": "./images/couch.jpg"
+   },
+   {
+      "@id": "152512575650",
+      "type": "photo",
+      "date-gmt": "2016-10-30 16:07:07 GMT",
+      "date": "Sun, 30 Oct 2016 11:07:07",
+      "unix-timestamp": "1477843627",
+      "slug": "dorris",
+      "post-content": "<p>My <a href=\"http://webcomicname.com/\" target=\"_blank\">Alex Norris<\/a>-inspired morning sketch.<\/p>",
+      "photo": "./images/dorris.jpg"
+   },
+   {
+      "@id": "152495880695",
+      "type": "photo",
+      "date-gmt": "2016-10-30 05:32:10 GMT",
+      "date": "Sun, 30 Oct 2016 00:32:10",
+      "unix-timestamp": "1477805530",
+      "slug": "give-a-shit",
+      "post-content": "<p>I’m not one for platitudes really. But this one feels right.<\/p>",
+      "photo": "./images/give-a-shit.jpg"
+   },
+   {
+      "@id": "152492142795",
+      "type": "photo",
+      "date-gmt": "2016-10-30 03:31:24 GMT",
+      "date": "Sat, 29 Oct 2016 22:31:24",
+      "unix-timestamp": "1477798284",
+      "slug": "the-dating-factory",
+      "post-content": "<p>My buddy has a pet name for online dating: The Dating Factory. Takes a long time to get up and running, lots of startup effort dialing in your brand. On good days, production seems good enough to be sustainable enough to return a good result. But those bad days, quality control isn’t on its game and the whole place suffers. And sometimes things get so out of hand that it’s better to just shut it all down.<\/p>",
+      "photo": "./images/the-dating-factory.jpg"
+   },
+   {
+      "@id": "152436996520",
+      "type": "photo",
+      "date-gmt": "2016-10-28 19:59:20 GMT",
+      "date": "Fri, 28 Oct 2016 14:59:20",
+      "unix-timestamp": "1477684760",
+      "slug": "the-shitty-magician",
+      "post-content": "<p>Today, a coworker encountered some mishap on some web development and had to spend most of the day fixing it. He told us the theme of his day was “being a shitty magician. I can make it all disappear, but only some of it come back.”<br/><\/p>",
+      "photo": "./images/the-shitty-magician.jpg"
+   },
+   {
+      "@id": "152436980700",
+      "type": "photo",
+      "date-gmt": "2016-10-27 18:26:58 GMT",
+      "date": "Thu, 27 Oct 2016 13:26:58",
+      "unix-timestamp": "1477592818",
+      "slug": "werk-buds",
+      "post-content": "<p>Werk buds. <br/><\/p>",
+      "photo": "./images/werk-buds.jpg"
+   },
+   {
+      "@id": "152436969960",
+      "type": "photo",
+      "date-gmt": "2016-10-27 13:15:37 GMT",
+      "date": "Thu, 27 Oct 2016 08:15:37",
+      "unix-timestamp": "1477574137",
+      "slug": "business-frog",
+      "post-content": "<p>It’s a good morning with Business Frog.<br/><\/p>",
+      "photo": "./images/business-frog.jpg"
+   },
+   {
+      "@id": "152436955095",
+      "type": "photo",
+      "date-gmt": "2016-10-26 21:49:10 GMT",
+      "date": "Wed, 26 Oct 2016 16:49:10",
+      "unix-timestamp": "1477518550",
+      "slug": "kinda-hope",
+      "post-content": "<p>I forgot that I was cosmically allowed to draw bonkers things. They used to be my favorite things to draw.<br/><\/p>",
+      "photo": "./images/kinda-hope.jpg"
+   },
+   {
+      "@id": "152436944745",
+      "type": "photo",
+      "date-gmt": "2016-10-26 20:08:51 GMT",
+      "date": "Wed, 26 Oct 2016 15:08:51",
+      "unix-timestamp": "1477512531",
+      "slug": "mictopus",
+      "post-content": "<p>I don’t know. I tried to draw a microphone grill and got distracted.<br/><\/p>",
+      "photo": "./images/mictopus.jpg"
+   },
+   {
+      "@id": "152436927750",
+      "type": "photo",
+      "date-gmt": "2016-10-26 01:39:20 GMT",
+      "date": "Tue, 25 Oct 2016 20:39:20",
+      "unix-timestamp": "1477445960",
+      "slug": "i-cant-reach",
+      "post-content": "<p>What it’s like sometimes.<\/p><p><a href=\"https://soundcloud.com/clidesfeld/i-cant-reach\" target=\"_blank\">https://soundcloud.com/clidesfeld/i-cant-reach<\/a><br/><\/p>",
+      "photo": "./images/i-cant-reach.jpg"
+   },
+   {
+      "@id": "152436911065",
+      "type": "photo",
+      "date-gmt": "2016-10-25 17:09:49 GMT",
+      "date": "Tue, 25 Oct 2016 12:09:49",
+      "unix-timestamp": "1477415389",
+      "slug": "spooky-projects",
+      "post-content": "<p>Feeling really inspired after a team meeting where a bunch of coworkers shared spooky projects by them and by others. Andy Wood in particular makes amazing masks and I’d like to try my (left) hand at it.<br/><\/p>",
+      "photo": "./images/spooky-projects.jpg"
+   },
+   {
+      "@id": "152436899980",
+      "type": "photo",
+      "date-gmt": "2016-10-25 13:36:28 GMT",
+      "date": "Tue, 25 Oct 2016 08:36:28",
+      "unix-timestamp": "1477402588",
+      "slug": "my-sleep-schedule",
+      "post-content": "<p>My sleep schedule goes from all night hard snoozin’ to wide-awake breakfast at 3am watching John Oliver talk about opioids. I’m glad to be down to the soft stuff so quickly.<br/><\/p>",
+      "photo": "./images/my-sleep-schedule.jpg"
+   },
+   {
+      "@id": "152436886625",
+      "type": "photo",
+      "date-gmt": "2016-10-24 21:32:05 GMT",
+      "date": "Mon, 24 Oct 2016 16:32:05",
+      "unix-timestamp": "1477344725",
+      "slug": "its-been-a-super-great-day-back",
+      "post-content": "<p>It’s been a super great day back full of non-dom high fives, nice catch-ups, sticker donations, and unexpected but extremely heartwarming interactions from folks at work. It’s an easy thing to forget, but I have a lot of genuine and caring people surrounding me. Thank you everyone today for your support. Now though, I only want to see one thing: my bedroom. Being back is exhausting and Brando needs a nap.<br/><\/p>",
+      "photo": "./images/its-been-a-super-great-day-back.jpg"
+   },
+   {
+      "@id": "152436868740",
+      "type": "photo",
+      "date-gmt": "2016-10-24 15:39:37 GMT",
+      "date": "Mon, 24 Oct 2016 10:39:37",
+      "unix-timestamp": "1477323577",
+      "slug": "back-at-work",
+      "post-content": "<p>Hey everybody! I’m back at work. Come at me with hellos and stickers. It’s a big day.<br/><\/p>",
+      "photo": "./images/back-at-work.jpg"
+   },
+   {
+      "@id": "152436855220",
+      "type": "photo",
+      "date-gmt": "2016-10-22 21:22:14 GMT",
+      "date": "Sat, 22 Oct 2016 16:22:14",
+      "unix-timestamp": "1477171334",
+      "slug": "bad-horror-movies-female-leads",
+      "post-content": "<p>Watching a bunch of bad horror movies with my brother today. Noticing a bunch of trends with regards to poor craftsmanship. One has really stuck out though: why do so many horror movies rely on skimpy, revealing outfits for the female leads?<br/><\/p>",
+      "photo": "./images/bad-horror-movies-female-leads.jpg"
+   },
+   {
+      "@id": "152436831120",
+      "type": "photo",
+      "date-gmt": "2016-10-22 03:16:30 GMT",
+      "date": "Fri, 21 Oct 2016 22:16:30",
+      "unix-timestamp": "1477106190",
+      "slug": "old-ladies-are-people-too",
+      "post-content": "<p>Good hand-lettering always comes with some cheap platitude so that they can show off the beauty of the letters themselves. Inspired by <a href=\"https://www.facebook.com/bob.hollister1\" target=\"_blank\">Bob<\/a>’s words, I present you bad hand-lettering by a non-dominant hand with just as much nonsense to say as the quality folks.<br/><\/p>",
+      "photo": "./images/old-ladies-are-people-too.jpg"
+   },
+   {
+      "@id": "152436817175",
+      "type": "photo",
+      "date-gmt": "2016-10-21 19:14:05 GMT",
+      "date": "Fri, 21 Oct 2016 14:14:05",
+      "unix-timestamp": "1477077245",
+      "slug": "the-butcher",
+      "post-content": "<p>Thanks to Demian, I was able to get my splint swapped out today. I can move my fingers finally and it no longer feels like there’s strong-handed man shaking my bad hand, rolling it over itself. A side benefit of all of this is that I got to see my naked wrist. After asking the nurse if it would be weird, I took some pictures of it. Trust me when I say that this is the “discretion shot” version of the image. The photograph is NSFW and looks straight out of Leatherface’s butcher shop. Nine stitches though. When I broke my elbow, I had 21 staples. It was nice to leave the house too. Scared two separate neighbors coming back in though. What happened?!<\/p><p><a href=\"https://soundcloud.com/clidesfeld/infected\" target=\"_blank\">https://soundcloud.com/clidesfeld/infected<\/a><br/><\/p>",
+      "photo": "./images/the-butcher.jpg"
+   },
+   {
+      "@id": "152436805340",
+      "type": "photo",
+      "date-gmt": "2016-10-21 11:04:45 GMT",
+      "date": "Fri, 21 Oct 2016 06:04:45",
+      "unix-timestamp": "1477047885",
+      "slug": "bonkers-ass-dreams",
+      "post-content": "<p>I keep having these bonkers-ass dreams. Sometimes they’re really vivid and full of that “dream logic.” In the dream I just woke from, I was pitching and adventure idea to my two childhood best friends, who I don’t think have ever met each other (one lived up in North Branch and the other lived in Chaska). The adventure was connecting TJ’s current house to Ben’s house growing up and how it related to my Dad’s old house. In the dream, I remember marveling at how easy it was for me to connect the dots between the three once-thought-to-be disparate areas. When I woke up, I was compelled to re-create a zoomed in section of the larger map. Healing dreams, I guess.<br/><\/p>",
+      "photo": "./images/bonkers-ass-dreams.jpg"
+   },
+   {
+      "@id": "152436735905",
+      "type": "photo",
+      "date-gmt": "2016-10-21 02:17:43 GMT",
+      "date": "Thu, 20 Oct 2016 21:17:43",
+      "unix-timestamp": "1477016263",
+      "slug": "first-full-day-at-home-after-the-surgery",
+      "post-content": "<p>First full day at home after the surgery. In between agonizing bouts of sleep and the exhaustion of wakefulness in between, I want to try and do something to partially document this period. After breakfast this morning, I got some basic instruments set up for lone wolf jamming and recording. That worked out pretty good, and I think that might produce something fun. I also tried my hand at the sketch for the day, done with my non-dominant left hand, of course. From here, it’s just me and the tree outside my window. Here’s a hand of hers, nearly empty as she drops her beautiful leaves to the ground this week.<br/><\/p>",
+      "photo": "./images/first-full-day-at-home-after-the-surgery.jpg"
+   }
+]
