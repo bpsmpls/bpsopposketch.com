@@ -239,7 +239,8 @@
       "video-source": "https://www.youtube.com/watch?v=rLqKvCQB5n0&feature=youtu.be",
       "post-content": "<p>A time lapse of my work on a commission for drum head artwork.<\/p>",
       "video-player": "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/rLqKvCQB5n0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\"><\/iframe>",
-      "video-id": "rLqKvCQB5n0"
+      "video-id": "rLqKvCQB5n0",
+      "photo": "./images/bob-drum-head.jpg"
    },
    {
       "@id": "154222982865",
