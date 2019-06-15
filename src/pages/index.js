@@ -35,8 +35,6 @@ export const pageQuery = graphql`
                 ...GatsbyImageSharpFluid
               }
             }
-            name
-            ext
           }
           post_content
           slug
