@@ -358,8 +358,8 @@ span.link-arrow {
 	margin-bottom: 25px;
 }
 
-.photo img,
-.album-art img,
+.photo .wide,
+.album-art .wide,
 .videoWrapper {
 	max-width: 100%;
 	display: block;
