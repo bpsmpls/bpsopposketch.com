@@ -650,6 +650,25 @@ p.question {
 	margin-right: 5px;
 }
 
+/* Post Navigation
+********************************/
+.post-navigation {
+	overflow:hidden;
+}
+
+.post-navigation .next,
+.post-navigation .prev {
+	display:block;
+}
+
+.post-navigation .next {
+	float:right;
+}
+
+.post-navigation .prev {
+	float:left;
+}
+
 /* Footer
 ********************************/
 #footer {
