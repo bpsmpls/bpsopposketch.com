@@ -11,7 +11,7 @@ const PostVideo = ( props ) => {
 
 const PostPhoto = ( props ) => {
   return (
-    <Img Fluid={props.photo} alt="" />
+    <Img fluid={props.photo} alt="" />
   )
 }
 
