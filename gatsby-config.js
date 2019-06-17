@@ -7,6 +7,8 @@
 module.exports = {
 	siteMetadata: {
     title: `bps oppo sketch`,
+    description: `In 2015, I broke the wrist attached to my non-dominant hand. In 2016, after a failed healing, I had wrist surgery. This project served as documenting and expressing the experiences in healing up and being unable to use my dominant hand.`,
+    siteUrl: `https://bpsopposketch.com`,
 	},
   plugins: [
     {

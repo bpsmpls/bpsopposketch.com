@@ -1,6 +1,7 @@
 import React from "react"
 import styles from "../assets/styles/global.css"
 import { Link } from "gatsby"
+import SiteMetadata from "../components/site-metadata.js"
 
 const ListLink = props => (
   <li>
@@ -11,6 +12,7 @@ const ListLink = props => (
 export default ({ children }) => {
   return (
     <div id="page">
+      <SiteMetadata />
       <div id="header">
         <div className="links">
           <ul>
