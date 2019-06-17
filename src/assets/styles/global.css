@@ -1,4 +1,5 @@
 @font-face {
+	font-display: swap;
     font-family: 'Calluna Sans';
     src: url('../media/fonts/CallunaSansRegular.eot');
     src: url('../media/fonts/CallunaSansRegular.eot#iefix') format('embedded-opentype'),
@@ -11,6 +12,7 @@
 }
 
 @font-face {
+	font-display: swap;
     font-family: 'Calluna Sans';
     src: url('../media/fonts/CallunaSansBlack.eot');
     src: url('../media/fonts/CallunaSansBlack.eot#iefix') format('embedded-opentype'),
@@ -23,6 +25,7 @@
 }
 
 @font-face {
+	font-display: swap;
     font-family: 'Calluna Sans';
     src: url('../media/fonts/CallunaSansItalic.eot');
     src: url('../media/fonts/CallunaSansItalic.eot#iefix') format('embedded-opentype'),
@@ -35,6 +38,7 @@
 }
 
 @font-face {
+	font-display: swap;
     font-family: 'Calluna Sans';
     src: url('../media/fonts/CallunaSansBlackItalic.eot');
     src: url('../media/fonts/CallunaSansBlackItalic.eot#iefix') format('embedded-opentype'),
@@ -48,6 +52,7 @@
 
 
 @font-face {
+	font-display: swap;
     font-family: 'Gibson';
     src: url('../media/fonts/Gibson-Regular.eot');
     src: url('../media/fonts/Gibson-Regular.eot#iefix') format('embedded-opentype'),
@@ -60,6 +65,7 @@
 }
 
 @font-face {
+	font-display: swap;
     font-family: 'Gibson';
     src: url('../media/fonts/Gibson-SemiBold.eot');
     src: url('../media/fonts/Gibson-SemiBold.eot#iefix') format('embedded-opentype'),
@@ -72,6 +78,7 @@
 }
 
 @font-face {
+	font-display: swap;
     font-family: 'Gibson';
     src: url('../media/fonts/Gibson-Italic.eot');
     src: url('../media/fonts/Gibson-Italic.eot#iefix') format('embedded-opentype'),
@@ -84,6 +91,7 @@
 }
 
 @font-face {
+	font-display: swap;
     font-family: 'Gibson';
     src: url('../media/fonts/Gibson-SemiBoldItalic.eot');
     src: url('../media/fonts/Gibson-SemiBoldItalic.eot#iefix') format('embedded-opentype'),
